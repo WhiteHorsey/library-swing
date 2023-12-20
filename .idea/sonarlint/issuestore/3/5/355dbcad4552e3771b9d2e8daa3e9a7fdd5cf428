@@ -1,0 +1,10 @@
+
+h
+java:S1192="FDefine a constant instead of duplicating this literal "Arial" 3 times.(İê©¦úÿÿÿÿ8³”î¥È1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦îôŞşÿÿÿÿ8´”î¥È1
+L	java:S106!"+Replace this use of System.out by a logger.(ÏÊÁ½ÿÿÿÿÿ8À”î¥È1
+T
+java:S1135T"2Complete the task associated to this TODO comment.(™ñéİøÿÿÿÿ8Úü¥È1
+x
+java:S3923`"[Remove this conditional structure or edit its code blocks so that they're not all the same.(£Øö8ô€÷¥È1
+G	java:S106h"+Replace this use of System.out by a logger.(×õÏü8ÇÑö¥È1
